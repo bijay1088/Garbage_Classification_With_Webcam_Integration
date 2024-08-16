@@ -31,6 +31,11 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 ![image](https://github.com/user-attachments/assets/a7047f04-4a64-4a22-968f-0e7dae4e0c2e)
 
 
+**Test using webcam**
+
+![Garbage Classification](https://github.com/user-attachments/assets/88b56f60-dff6-4613-8759-cc486e0fdebf)
+
+
 
 **Confusion Matrix**
 
