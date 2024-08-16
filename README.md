@@ -7,6 +7,7 @@ This is a matlab project that used dataset from kaggle to train a model using Al
 **Note**: 
 Before training the model, I deleted some images to balance the dataset so that there is no bias after training. The original dataset had 15,150 images but I removed some to balance and my final images were 8406.
 The data was also distributed with 75% in training, 15% for validation and rest of the 10% for testing.
+
 ![image](https://github.com/user-attachments/assets/73911128-51c7-4248-a8d9-9f35acb18f63)
 
 
@@ -24,9 +25,11 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 ![image](https://github.com/user-attachments/assets/eb9b7730-0d80-472e-8ae3-e90d2c64fb0d)
 
 
+
 **Test using test images**
 
-![image](https://github.com/user-attachments/assets/dc6f14b5-4234-4965-8cda-9e932319db68)
+![image](https://github.com/user-attachments/assets/a7047f04-4a64-4a22-968f-0e7dae4e0c2e)
+
 
 
 **Confusion Matrix**
@@ -34,9 +37,11 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 ![image](https://github.com/user-attachments/assets/504a78a9-b614-480a-94ac-5d1aa9025b51)
 
 
+
 **Precision, Recall and F1 Score**
 
 ![image](https://github.com/user-attachments/assets/3ad361d2-f9dc-436c-9032-2ec798e9b138)
+
 
 
 **Some wrong predictions**
