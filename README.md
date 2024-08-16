@@ -7,7 +7,8 @@ This is a matlab project that used dataset from kaggle to train a model using Al
 **Note**: 
 Before training the model, I deleted some images to balance the dataset so that there is no bias after training. The original dataset had 15,150 images but I removed some to balance and my final images were 8406.
 The data was also distributed with 75% in training, 15% for validation and rest of the 10% for testing.
-![image](https://github.com/user-attachments/assets/96a0b4e4-0acf-471e-9b79-311e4794cfcd)
+![image](https://github.com/user-attachments/assets/73911128-51c7-4248-a8d9-9f35acb18f63)
+
 
 
 
