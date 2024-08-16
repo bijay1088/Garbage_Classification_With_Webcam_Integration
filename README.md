@@ -13,26 +13,32 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 
 
 **Training Progress Chart**
+
 ![image](https://github.com/user-attachments/assets/820ec975-a000-49ea-9a89-be3d1b218e11)
 
 
 **Test Accuracy**
+
 ![image](https://github.com/user-attachments/assets/eb9b7730-0d80-472e-8ae3-e90d2c64fb0d)
 
 
 **Test using test images**
+
 ![image](https://github.com/user-attachments/assets/eb992956-2698-42b6-aeea-49c77be80e74)
 
 
 **Confusion Matrix**
+
 ![image](https://github.com/user-attachments/assets/20861f4f-2344-4ea4-8485-630e925dedc7)
 
 
 **Precision, Recall and F1 Score**
+
 ![image](https://github.com/user-attachments/assets/ac1abb6e-64c5-4758-93b0-97ca2bf060df)
 
 
 **Some wrong predictions**
+
 ![image](https://github.com/user-attachments/assets/f1e97971-b06b-48e9-af8b-9feefde6e0f7)
 
 
