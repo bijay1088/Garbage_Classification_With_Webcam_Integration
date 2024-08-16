@@ -15,7 +15,8 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 
 **Training Progress Chart**
 
-![image](https://github.com/user-attachments/assets/820ec975-a000-49ea-9a89-be3d1b218e11)
+![Screenshot (58)](https://github.com/user-attachments/assets/ff49283b-547c-474d-b793-aa879abbbe6e)
+
 
 
 **Test Accuracy**
@@ -25,22 +26,23 @@ The data was also distributed with 75% in training, 15% for validation and rest 
 
 **Test using test images**
 
-![image](https://github.com/user-attachments/assets/eb992956-2698-42b6-aeea-49c77be80e74)
+![image](https://github.com/user-attachments/assets/dc6f14b5-4234-4965-8cda-9e932319db68)
 
 
 **Confusion Matrix**
 
-![image](https://github.com/user-attachments/assets/20861f4f-2344-4ea4-8485-630e925dedc7)
+![image](https://github.com/user-attachments/assets/504a78a9-b614-480a-94ac-5d1aa9025b51)
 
 
 **Precision, Recall and F1 Score**
 
-![image](https://github.com/user-attachments/assets/ac1abb6e-64c5-4758-93b0-97ca2bf060df)
+![image](https://github.com/user-attachments/assets/3ad361d2-f9dc-436c-9032-2ec798e9b138)
 
 
 **Some wrong predictions**
 
-![image](https://github.com/user-attachments/assets/f1e97971-b06b-48e9-af8b-9feefde6e0f7)
+![image](https://github.com/user-attachments/assets/c75061a9-d8c4-435d-a389-0ca7f6bd00dd)
+
 
 
 
